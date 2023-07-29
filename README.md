@@ -11,3 +11,10 @@ export const secrets = {
     url: "<mongo db atlas url>"
 }
 ```
+
+## Testes unitários
+Para executar os testes unitários (em Mocha) das operações do modelo, executar:
+
+```
+npm test
+```
